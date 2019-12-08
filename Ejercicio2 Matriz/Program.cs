@@ -65,7 +65,3 @@ namespace Ejercicio2_Matriz
         }
     }
 }
-
-
-
-   
